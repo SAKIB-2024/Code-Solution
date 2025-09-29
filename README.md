@@ -2,7 +2,7 @@
 # 🚀 Problem-Solving Repository
 
 Welcome to my repository!
-Here I share my code solutions to various algorithmic and data-structure problems that I solve on different **online judges** such as Codeforces, LeetCode, AtCoder, CSES, and others.
+Here I share my code solutions to various algorithmic and data-structure problems that I solve on different **online judges** such as Codeforces, AtCoder, CSES, and others.
 
 ---
 
